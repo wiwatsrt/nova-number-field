@@ -1,5 +1,5 @@
 <template>
-    <span>{{ formattedValue }}</span>
+    <span class="block whitespace-no-wrap">{{ formattedValue }}</span>
 </template>
 
 <script>
