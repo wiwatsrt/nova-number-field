@@ -1,4 +1,4 @@
-# A numberfield for Nova apps
+# A number field for Nova apps
 
 use numeral.js for formatted number
 
